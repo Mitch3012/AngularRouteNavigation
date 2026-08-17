@@ -1,4 +1,4 @@
-Angular Routes App
+## Angular Routes App
 
 This is an Angular project I built while learning Angular routing and navigation.
 
@@ -28,7 +28,7 @@ One of the things I learned along the way was that a route can be defined correc
 
 That was a good lesson because it wasn't just about following the tutorial — I had to work out why it wasn't working.
 
-The Project
+## The Project
 
 The application contains several routes, including:
 
@@ -44,7 +44,7 @@ Students
 
 The Students route also uses a route parameter.
 
-Why I Built It
+## Why I Built It
 
 I'm working towards becoming a junior software developer and I'm trying to learn by actually building things rather than just watching tutorials.
 
@@ -52,7 +52,7 @@ This project is another step in that process.
 
 There is still plenty I can improve, but the important thing for me is getting projects built, working and shipped.
 
-What's Next
+## What's Next
 
 I'll continue refining this project, but I'll also move on to the next project and keep building.
 
