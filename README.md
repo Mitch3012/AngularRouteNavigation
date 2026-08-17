@@ -1,3 +1,63 @@
+Angular Routes App
+
+This is an Angular project I built while learning Angular routing and navigation.
+
+The aim of the project was to get a better understanding of how Angular handles different pages, routes and navigation between components.
+
+What I learned
+
+While building this project I worked with:
+
+Angular routing
+
+Navigation between pages
+
+Route parameters
+
+Nested routes
+
+router-outlet
+
+Components
+
+HTML and CSS
+
+Git and GitHub
+
+One of the things I learned along the way was that a route can be defined correctly but still not display anything if the component doesn't have a router-outlet where the child route needs to appear.
+
+That was a good lesson because it wasn't just about following the tutorial — I had to work out why it wasn't working.
+
+The Project
+
+The application contains several routes, including:
+
+Home
+
+Books
+
+About
+
+Learn
+
+Students
+
+The Students route also uses a route parameter.
+
+Why I Built It
+
+I'm working towards becoming a junior software developer and I'm trying to learn by actually building things rather than just watching tutorials.
+
+This project is another step in that process.
+
+There is still plenty I can improve, but the important thing for me is getting projects built, working and shipped.
+
+What's Next
+
+I'll continue refining this project, but I'll also move on to the next project and keep building.
+
+One project. One problem. One solution at a time.
+
 # RouterApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.8.
