@@ -8,8 +8,19 @@ button {
   margin: 4px 2px;
   display: inline-block;
   font-size: 16px;
+  border-radius: 5px;
+  
 }
 button a {
   color: rgb(216, 206, 179); /* Deathwing Bone */
   text-decoration: none;
+}
+
+body {
+  background-image: url("/highway-junction-image.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 60px;
 }

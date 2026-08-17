@@ -1,12 +1,14 @@
 <router-outlet />
+<header>
 <nav>
 <button><a routerLink="/" routerLinkActive="active">Home</a></button>
 <button><a routerLink="/books" routerLinkActive="active">Books</a></button>
 <button><a routerLink="/about" routerLinkActive="active">About</a></button>
 <button><a routerLink="/learn" routerLinkActive="active">Learn</a></button>
 <button><a routerLink="/learn/students" routerLinkActive="active">Students</a></button>
-</nav>
 <br>
 <button (click)="goBack()">Back</button>
+<button (click)="goforward()">Forward</button></nav>
+</header>
 
 

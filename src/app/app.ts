@@ -17,5 +17,7 @@ export class App {
   goBack() {
     this.location.back();
   }
-
+  goforward(){
+    this.location.back();
+  }
 }
